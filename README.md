@@ -12,7 +12,7 @@
     Sobre mim:
 </h3>
 
-<p style="font-size: 18px;">Meu nome é Bernardo, tenho 18 anos e estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End na turma 1000 do iFood + Cubos Academy.</p>
+<p style="font-size: 18px;">Meu nome é Bernardo, tenho 19 anos e estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End na turma 1000 do iFood + Cubos Academy.</p>
 
 ![Bernardo Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo-04&show_icons=true&theme=dracula)
 
