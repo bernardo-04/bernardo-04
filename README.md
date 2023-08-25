@@ -15,7 +15,6 @@
 <p style="font-size: 18px;">Meu nome é Bernardo, tenho 19 anos e estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End.</p>
 
 ![Bernardo Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo-04&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bernardo-04&layout=compact&theme=dracula&border_color=fff)
 
 <h3 style="font-size: 22px">Tecnologias</h3>
 
@@ -28,6 +27,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bernardo-04&layout=compact&theme=dracula&border_color=fff)
 
 <h3 style="font-size: 22px; margin-top: 25px">Conecte-se comigo</h3>
 
