@@ -33,13 +33,13 @@
 <h3 style="font-size: 22px; margin-top: 25px">Conecte-se comigo</h3>
 
 <div style="display: inline_block;">
-    <a href="https://github.com/bernardo-04" target="_blank">
-        <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+    <a href="mailto:bernardo.bcruz@gmail.com">
+        <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/bernardo-cruz-dev/" target="_blank">
+    <a href="https://www.linkedin.com/in/bernardo-cruz-dev/">
         <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.dio.me/users/bernardo_bcruz" target="_blank">
+    <a href="https://www.dio.me/users/bernardo_bcruz">
         <img align="center" alt="DIO" src="https://img.shields.io/badge/Perfil DIO-cf4d6b?style=for-the-badge"/>
     </a>
 </div>
