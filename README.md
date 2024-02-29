@@ -5,18 +5,18 @@
     Hello World! Eu sou o Bernardo 👋
 </h1>
 
-<h3 style="
+<h2 style="
         font-size: 22px;
         text-align: left;"
 >
     Sobre mim:
-</h3>
+</h2>
 
 <p style="font-size: 18px;">Meu nome é Bernardo, tenho 19 anos e estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End.</p>
 
 ![Bernardo Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo-04&show_icons=true&theme=dracula)
 
-<h3 style="font-size: 22px">Tecnologias</h3>
+<h2 style="font-size: 22px">Tecnologias</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
