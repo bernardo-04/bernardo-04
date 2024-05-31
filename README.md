@@ -2,7 +2,7 @@
         font-size: 30px;
         text-align: center;"
 >
-    Hello World! Eu sou o Bernardo 👋
+    Hello World!
 </h1>
 
 <h2 style="
@@ -12,19 +12,19 @@
     Sobre mim:
 </h2>
 
-<p style="font-size: 18px;">Meu nome é Bernardo, tenho 19 anos e estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End.</p>
+<p style="font-size: 18px;">Meu nome é Bernardo, tenho 19 anos, estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End.</p>
 
-![Bernardo Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo-04&show_icons=true&theme=dracula)
+![Bernardo Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo-04&show_icons=true&theme=dracula))
 
 <h2 style="font-size: 22px">Tecnologias</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,jest,git,java,hibernate,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,nextjs,react,tailwind,jest,postgres,git" />
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bernardo-04&layout=compact&theme=dracula&border_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-04&layout=compact&langs_count=6&theme=dracula)
 
 <h3 style="font-size: 22px; margin-top: 25px">Conecte-se comigo</h3>
 
