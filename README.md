@@ -1,21 +1,10 @@
-<h1 style="
-        font-size: 30px;
-        text-align: center;"
->
-    Hello World!
-</h1>
+# Hello World!
 
-<h2 style="
-        font-size: 22px;
-        text-align: left;"
->
-    Sobre mim:
-</h2>
+## Sobre mim:
 
 <p style="font-size: 18px;">Meu nome é Bernardo, tenho 19 anos, estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End.</p>
 
-![Bernardo Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo-04&show_icons=true&theme=dracula))
-
+![Anurag's GitHub stats](https://github-readme-stats-topaz-eight-37.vercel.app/api?username=bernardo-04&theme=dracula&show_icons=true)
 <h2 style="font-size: 22px">Tecnologias</h2>
 
 <p align="center">
@@ -24,9 +13,9 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-04&layout=compact&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats-topaz-eight-37.vercel.app/api/top-langs/?username=bernardo-04&layout=compact&theme=dracula)
 
-<h3 style="font-size: 22px; margin-top: 25px">Conecte-se comigo</h3>
+### Conecte-se comigo
 
 <div style="display: inline_block;">
     <a href="mailto:bernardo.bcruz@gmail.com">
