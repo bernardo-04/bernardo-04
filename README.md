@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-<p style="font-size: 18px;">Meu nome é Bernardo, tenho 19 anos, estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End.</p>
+<p style="font-size: 18px;">Meu nome é Bernardo, tenho 20 anos, estou cursando Engenharia da Computação e estudando Desenvolvimento Back-End.</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-master-bernardos-projects-df89a83e.vercel.app/api?username=bernardo-04&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <h2 style="font-size: 22px">Tecnologias</h2>
